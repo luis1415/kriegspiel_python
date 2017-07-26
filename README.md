@@ -6,4 +6,4 @@ pip install python-chess
 pip install jupyter
 ```
 
-[logo]: https://github.com/luis1415/kriegspiel_python/blob/master/jupyter_chess.png?raw=true "Ajedrez"
+![chess](https://raw.githubusercontent.com/luis1415/kriegspiel_python/master/jupyter_chess.png)
